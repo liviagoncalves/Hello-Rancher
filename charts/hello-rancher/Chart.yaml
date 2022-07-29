@@ -3,5 +3,5 @@ name: hello-rancher
 description: Desafio Kubernetes para estagiário - Fase 3
 type: application
 version: 0.1.0
-appVersion: "1.0.0"
+appVersion: "1.0.2"
 icon: https://www.pngfind.com/pngs/m/25-259743_save-alt-rancher-labs-stacked-color-rancher-labs.png
